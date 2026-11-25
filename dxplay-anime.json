@@ -1,0 +1,34 @@
+{
+  "sites": [
+    {
+      "key": "ruyi",
+      "name": "如意影视",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["日韩动漫","动画电影","国产动漫","欧美动漫","日本剧","国产剧","欧美剧","动作片","喜剧片","科幻片","剧情片"]
+    },
+    {
+      "key": "modu",
+      "name": "魔都动漫",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["日韩动漫","动漫电影","国产动漫","欧美动漫","日本剧","国产剧","欧美剧","动作片","喜剧片","科幻片","剧情片"]
+    },
+    {
+      "key": "baofeng",
+      "name": "暴风影视",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["日韩动漫","动画片","国产动漫","欧美动漫","日本剧","国产剧","欧美剧","动作片","喜剧片","科幻片","剧情片"]
+    }
+  ]
+}
